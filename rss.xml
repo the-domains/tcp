@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TCP]]></title>
+        <description><![CDATA[TCP]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 07:33:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hotelex Shanghai is held from Mar 29 (Tue) to Apr 1 (Fri) in Shanghai New International Expo Centre (SNIEC), 2345 Longyang Road, Pudong New Area, Shanghai, China.</p>]]></description>
+            <link>undefined6214f89d-c0d1-4cde-9ba1-79c54ab46681/index.html</link>
+            <guid isPermaLink="false">6214f89d-c0d1-4cde-9ba1-79c54ab46681</guid>
+            <pubDate>Sun, 06 Mar 2016 07:33:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
